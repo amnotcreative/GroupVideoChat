@@ -37,7 +37,7 @@
   padding: 0 1rem;
   position: fixed;
   font-size: 18px;
-  background-color: #323143;
+  background-color: rgb(18, 18, 29);
   width: 218px;
 }
 
@@ -335,11 +335,11 @@
 .stream__actions button.active,
 .stream__actions a:hover,
 .stream__actions button:hover {
-  background-color: #845695;
+  background-color: #17A0DB;
 }
 
 #join-btn{
-  background-color: #845695;
+  background-color: #17A0DB;
   font-size: 18px;
   padding: 25px 50px;
   border: none;
